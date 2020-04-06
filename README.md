@@ -27,6 +27,8 @@ Paginas necesarias:
 Para ello necesitamos las siguientes operaciones
 
 * Crear Modelo/Entidad
+    * Para datos de las regiones
+    * Para la seguridad (puede usar la entidad ya creada en el ejercicio Abril1)
 * Poblar la tabla con los casos y regiones.
 * Crear la interface Repositorio
 * Crear el controlador (o los controladores)
