@@ -31,7 +31,13 @@ Para ello necesitamos las siguientes operaciones
 * Crear la interface Repositorio
 * Crear el controlador (o los controladores)
 * Como necesitamos seguridad, necesitamos configurar tambien la seguridad creando la clase de Configuracion de seguridad (ver ejemplo Abril1
-* 
+* Crear las 3 vistas
+
+Si fuera posible, subir el proyecto a github para la revision.
+
+ps: Ademas, adjunte los ultimos mapas mentales (XMind Map)
+
+
 
 
 
