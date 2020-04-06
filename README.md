@@ -37,6 +37,10 @@ Si fuera posible, subir el proyecto a github para la revision.
 
 ps: Ademas, adjunte los ultimos mapas mentales (XMind Map)
 
+Si tienen dudas, no olviden enviarme un correo.
+
+Intenten no solo copiar ni pegar.
+
 
 
 
